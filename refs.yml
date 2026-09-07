@@ -1,0 +1,90 @@
+Cho82:
+  type: article
+  title: Is there a permanental analogue of Oppenheim's inequality?
+  author: "Chollet, John"
+  date: 1982
+  page-range: 57-58
+  parent:
+    type: periodical
+    title: American Mathematical Monthly
+    volume: 89
+
+JL87:
+  type: article
+  title: Permanents and immanants of Hermitian matrices
+  author: ["James, Gordon D.", "Liebeck, Martin W."]
+  date: 1987
+  page-range: 243-265
+  serial-number:
+    doi: "10.1112/plms/s3-55_2.243"
+  parent:
+    type: periodical
+    title: Proceedings of the London Mathematical Society (3)
+    volume: 55
+
+Rod24:
+  type: article
+  title: Chollet's permanent conjecture for 4x4 matrices
+  author: "Rodtes, Kijti"
+  date: 2024
+  page-range: 2633-2638
+  serial-number:
+    doi: "10.1080/03081087.2023.2279150"
+  parent:
+    type: periodical
+    title: Linear and Multilinear Algebra
+    volume: 72
+
+Wan22:
+  type: article
+  title: Lieb's permanental dominance conjecture
+  author: "Wanless, Ian M."
+  date: 2022
+  url: https://arxiv.org/abs/2202.01867
+
+Shc16:
+  type: article
+  title: The permanent-on-top conjecture is false
+  author: "Shchesnovich, Valery S."
+  date: 2016
+  page-range: 196-201
+  parent:
+    type: periodical
+    title: Linear Algebra and its Applications
+    volume: 490
+
+Tra21:
+  type: article
+  title: A simple counterexample for the permanent-on-top conjecture
+  author: "Tran, Hoang Anh"
+  date: 2021
+  url: https://arxiv.org/abs/2101.03428
+
+Dru17:
+  type: article
+  title: A real counterexample to two inequalities involving permanents
+  author: "Drury, Stephen W."
+  date: 2017
+  page-range: 349-352
+  parent:
+    type: periodical
+    title: Mathematical Inequalities and Applications
+    volume: 20
+
+Zha12:
+  type: article
+  title: An analytic approach to a permanent conjecture
+  author: "Zhang, Fuzhen"
+  date: 2012
+  page-range: 2630-2637
+  parent:
+    type: periodical
+    title: Linear Algebra and its Applications
+    volume: 436
+
+PS26:
+  type: article
+  title: On Chollet's permanent conjecture for graph Laplacians
+  author: ["Pant, Priyanshu", "Singh, Ranveer"]
+  date: 2026
+  url: https://arxiv.org/abs/2604.24192
